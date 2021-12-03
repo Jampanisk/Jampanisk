@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jampanisk
+- 👋 Hi, I’m @OnePerson
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning creating my own blockchain
 - 💞️ I’m looking to collaborate on 
